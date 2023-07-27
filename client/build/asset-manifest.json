@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.12922360.css",
+    "main.js": "/static/js/main.bbd566da.js",
+    "static/media/Kiak-Bold.otf": "/static/media/Kiak-Bold.e2865c28fb9e96168f37.otf",
+    "static/media/BlankPFP.jpeg": "/static/media/BlankPFP.fa23513209d72baa811b.jpeg",
+    "static/media/stackedBG.svg": "/static/media/stackedBG.5c00d40d8317aac9fb83.svg",
+    "static/media/loginForm.svg": "/static/media/loginForm.b2f1dc84f452e701fb88.svg",
+    "static/media/Form.svg": "/static/media/Form.3cd588e465cc5f58f9cc.svg",
+    "index.html": "/index.html",
+    "main.12922360.css.map": "/static/css/main.12922360.css.map",
+    "main.bbd566da.js.map": "/static/js/main.bbd566da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12922360.css",
+    "static/js/main.bbd566da.js"
+  ]
+}
